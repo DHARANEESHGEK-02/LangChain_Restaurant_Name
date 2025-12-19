@@ -3,7 +3,7 @@ import langchain_helper
 
 st.title("Restaurant Name Generator")
 
-cuisine = st.sidebar.selectbox("Pick a cuisine:", ("Indian", "Italian", "Arabic", "Chinese"))
+cuisine = st.sidebar.selectbox("Pick a cuisine:", ("Indian", "Italian", "Arabic", "Chinese","Arabic","Mexican"))
 
 
 
